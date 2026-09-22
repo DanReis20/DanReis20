@@ -17,6 +17,6 @@ Estudante do 1º ano de Bacharelado em Cibersegurança na PUC-Campinas (conclus�
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### 🔧 Projetos em destaque
+### Projetos em destaque
 
 - [**pentest-lab-metasploitable2**](https://github.com/DanReis20/pentest-lab-metasploitable2) — Laboratório de pentest em rede isolada (KVM): enumeração com nmap/nikto e exploração manual de 2 vulnerabilidades críticas com acesso root confirmado, com relatório técnico completo.
