@@ -2,11 +2,11 @@
 
 Estudante do 1º ano de Bacharelado em Cibersegurança na PUC-Campinas (conclusão prevista para dez/2029), com experiência prática em suporte técnico e administração de infraestrutura Linux.
 
-- Atualmente construindo um laboratório de infraestrutura (Linux + KVM + GLPI)
-- Aprendendo Python e aprofundando fundamentos de segurança ofensiva (pentest)
-- Experiência anterior: suporte técnico presencial em migração de Microsoft 365 (Active Directory)
-- Contato: reis2025.daniel@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-reis-839b35387/)
-- Campinas, SP
+-  Atualmente construindo um laboratório de infraestrutura (Linux + KVM + GLPI)
+-  Aprendendo Python e aprofundando fundamentos de segurança ofensiva (pentest)
+-  Experiência anterior: suporte técnico presencial em migração de Microsoft 365 (Active Directory)
+-  Contato: reis2025.daniel@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-reis-839b35387/)
+-  Campinas, SP
 
 **Stack:**
 
